@@ -1,8 +1,11 @@
 # mouse-jiggler
 Prevents inactivity by jiggling the mouse in random direction and time
 
-## Usage
-Install AutoHotkey, and double click on the file [mouse_jiggler.ahk](mouse_jiggler.ahk)
+## Installation
+1. Ensure you have AutoHotKey installed on your Windows system.
+2. Download the mouse jiggler AutoHotKey script file [mouse_jiggler.ahk](mouse_jiggler.ahk)
+3. Double click on the file, it will run the script using the AutoHotKey interpreter.
+4. The script will run in the background, periodically checking for user inactivity and performing random mouse movements to prevent inactivity.
 
 ## Features
 * Jiggling the mouse in random direction
