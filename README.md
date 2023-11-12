@@ -20,5 +20,5 @@ Microsoft Teams set your status from Available to Away when
 * [Locked](https://support.microsoft.com/en-gb/office/change-your-status-in-microsoft-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e
 )
 
-Inactivity issue can be solved by this mouse jiggler program [WingTillDie/mouse-jiggler](https://github.com/WingTillDie/mouse-jiggler) 
+Inactivity issue can be solved by this mouse jiggler program [WingTillDie/mouse-jiggler](https://github.com/WingTillDie/mouse-jiggler)  
 Locked issue can be solved by an alternative lock screen program like [billiegoose/lock-screen](https://github.com/billiegoose/lock-screen)
