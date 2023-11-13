@@ -4,12 +4,12 @@ Loop
     Sleep, 60000
 
     ; Feature: Prevent intervening user
-    ; Check if has been idle for 3 minutes
-    if (A_TimeIdle >= 180000) {
+    ; Check if has been idle for 1 minute
+    if (A_TimeIdle >= 60000) {
         ; Feature: Random move time
         Random, sleepTime, 0, 60000
         Sleep, %sleepTime% ;
-        if (A_TimeIdle < 180000) 
+        if (A_TimeIdle < 60000) 
             continue
 
         ; Feature: random move direction
@@ -34,7 +34,7 @@ Loop
         randomX := -randomX
         randomY := -randomY
 
-        Random, sleepTime, 0, 180000
+        Random, sleepTime, 0, 120000
 
         Sleep, %sleepTime% ;
         MouseMove, %randomX%, %randomY%, 1, R
