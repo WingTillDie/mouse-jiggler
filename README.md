@@ -16,7 +16,7 @@ Prevents inactivity by jiggling the mouse in random direction and time
 ## Example use case
 ### Prevents Microsoft Teams inactivity
 Microsoft Teams set your status from Available to Away when
-* Inactive for 3 minutes
+* [Inactive for 3 minutes](https://support.microsoft.com/en-us/office/first-things-to-know-about-notifications-in-microsoft-teams-abb62c60-3d15-4968-b86a-42fea9c22cf4)
     * The issue can be solved by this mouse jiggler program [WingTillDie/mouse-jiggler](https://github.com/WingTillDie/mouse-jiggler)
 * [Locked](https://support.microsoft.com/en-gb/office/change-your-status-in-microsoft-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e
 )
